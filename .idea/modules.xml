@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/apps-noirmeilleur.iml" filepath="$PROJECT_DIR$/.idea/apps-noirmeilleur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../news-noir-meilleur-jekyll/.idea/news-noir-meilleur-jekyll.iml" filepath="$PROJECT_DIR$/../news-noir-meilleur-jekyll/.idea/news-noir-meilleur-jekyll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../noir-meilleur-jekyll/.idea/noir-meilleur-jekyll.iml" filepath="$PROJECT_DIR$/../noir-meilleur-jekyll/.idea/noir-meilleur-jekyll.iml" />
     </modules>
   </component>
 </project>

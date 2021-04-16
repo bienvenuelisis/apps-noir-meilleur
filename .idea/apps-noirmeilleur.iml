@@ -8,5 +8,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="news-noir-meilleur-jekyll" />
+    <orderEntry type="module" module-name="noir-meilleur-jekyll" />
   </component>
 </module>
